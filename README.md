@@ -1,5 +1,16 @@
 # Fake Mute/Deafen Status Script for Discord (Browser Console)
 
+<div align="center">
+   
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Nattapat2871/fakemutediscord?style=flat-square)](https://github.com/Nattapat2871/fakemutediscord/stargazers)
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=Nattapat2871&repo=fakemutediscord&countColor=%237B1E7A&style=flat-square) 
+
+</div>
+
+<p align= "center">
+        <b>English</b>　<a href="/README_TH.md">ภาษาไทย</a>
+
 ## 📜 Description
 This script allows you to display a "fake" muted or deafened status to other users in Discord voice channels when using Discord in your web browser. It provides a user interface, triggered by a floating panel, to toggle these fake states by intercepting and modifying WebSocket messages.
 
