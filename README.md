@@ -305,7 +305,7 @@ To completely stop the script, remove its UI elements, and restore the original 
 4.  **To fully ensure all modifications are gone, simply reload the Discord web page (e.g., press `Ctrl+R` or `F5`).** Since this is a console script, its effects are generally limited to the current page session and do not persist after a full page reload unless re-injected.
 
 ## 📄 License
-This script is released under the **MIT License** (as stated in the script's header comment).
+This script is released under the **MIT License**
 
 *(You can create a separate file named `LICENSE` in your GitHub repository and paste the full text of the MIT License there.)*
 
